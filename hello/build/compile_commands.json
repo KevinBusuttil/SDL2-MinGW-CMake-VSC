@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Kevin/Projects/CPP/hello/build",
+  "command": "C:\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   @CMakeFiles/Hello.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles\\Hello.dir\\main.cpp.obj -c C:\\Users\\Kevin\\Projects\\CPP\\hello\\main.cpp",
+  "file": "C:/Users/Kevin/Projects/CPP/hello/main.cpp"
+}
+]
