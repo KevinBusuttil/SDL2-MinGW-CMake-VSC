@@ -1,0 +1,2 @@
+# SDL2-MinGW-CMake-VSC
+SDL2 CMake VSC MinGW
